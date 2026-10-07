@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.log
+.DS_Store
+captures/
+captures-apple/
+captures-full/
+captures-real/
+wg_copy.metallib
